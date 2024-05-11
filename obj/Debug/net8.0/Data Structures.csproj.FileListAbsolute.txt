@@ -1,0 +1,14 @@
+D:\programming\Data Structures\bin\Debug\net8.0\Data Structures.exe
+D:\programming\Data Structures\bin\Debug\net8.0\Data Structures.deps.json
+D:\programming\Data Structures\bin\Debug\net8.0\Data Structures.runtimeconfig.json
+D:\programming\Data Structures\bin\Debug\net8.0\Data Structures.dll
+D:\programming\Data Structures\bin\Debug\net8.0\Data Structures.pdb
+D:\programming\Data Structures\obj\Debug\net8.0\Data Structures.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\Data Structures\obj\Debug\net8.0\Data Structures.AssemblyInfoInputs.cache
+D:\programming\Data Structures\obj\Debug\net8.0\Data Structures.AssemblyInfo.cs
+D:\programming\Data Structures\obj\Debug\net8.0\Data Structures.csproj.CoreCompileInputs.cache
+D:\programming\Data Structures\obj\Debug\net8.0\Data Structures.dll
+D:\programming\Data Structures\obj\Debug\net8.0\refint\Data Structures.dll
+D:\programming\Data Structures\obj\Debug\net8.0\Data Structures.pdb
+D:\programming\Data Structures\obj\Debug\net8.0\Data Structures.genruntimeconfig.cache
+D:\programming\Data Structures\obj\Debug\net8.0\ref\Data Structures.dll
